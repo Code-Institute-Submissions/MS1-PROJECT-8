@@ -2,7 +2,7 @@
 
 body{
     overflow-x: hidden;
-    font-family: "Caveat", sans-serif;
+    font-family: Caveat, sans-serif;
     color:#eca1a6;
 }
 
@@ -39,7 +39,7 @@ body{
         display: none;
     }
     body {
-        background: url('assets/images/bg-imagedaisy2-mobile.jpg');
+        background: url('../images/bg-imagedaisy2-mobile.jpg');
         background-size: cover;
     }
 }
