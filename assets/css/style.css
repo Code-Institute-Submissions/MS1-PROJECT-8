@@ -1,17 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Caveat:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css2?family=Galada:100,200,300,400,500,600,700');
 
 body{
     overflow-x: hidden;
-    font-family: Caveat, sans-serif;
+    font-family: 'Galada', sans-serif;
     color:#eca1a6;
 }
 
 
 .navbar{
+    font-family: 'Galada';
+    font-weight: 400;
     text-align: right;
     background: #bdcebe;
 }
-/*---------------Background Video-------------*/
+
   
   #videobg {
   max-width: 100%;
@@ -35,12 +37,28 @@ body{
 }
 
 @media (max-width: 767px) {
-    #videoBG {
+    #videobg {
         display: none;
     }
+
     body {
-        background: url('../images/bg-imagedaisy2-mobile.jpg');
+        background: url('../images/bg-imagedaisy.jpg');
         background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+}
+
+    @media (max-width: 767px) {
+    #bgimage {
+        display:block;
+    }
+    body {
+        background: url('../images/bg-imagedaisy.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
     }
 }
+
+
 
