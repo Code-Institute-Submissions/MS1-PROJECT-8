@@ -4,13 +4,15 @@
 
 ### **Strategy**
 
-The purpose / goal is to build a static website to primarily show case a portfolio of me as a foster carer for rescue dogs 
+The purpose / goal is to build a static website to primarily show case a portfolio of my foster dogs and a profile of myself. 
+Prospective rescue organisations will be able to use this information to validate my fostering experience
+
 
 For version 1 and the purpose of this project users will be able to access the following content and features:
 
 * My profile and a short description of fostering experience
 * My contact details
-* Profiles of all my foster dogs to date
+* Profiles of all my foster dogs to date 
 * Contact me via an e-mail contact form 
 * Access links and information to the rescue organisations I work with 
 
@@ -19,10 +21,14 @@ For later versions I may consider adding the following content and features:
 * Expand on dog profiles - add success stories with pictures of adopters with their dogs
 * Blog
 * Forum
+* References from the organisations I have worked with 
 
 ## Wireframes 
 
-**ADD WIREFRAMES IN .PDF FORMAT**
+Logo created using [FLD](https://www.freelogodesign.org/) 
+
+
+<!-- ADD WIREFRAMES IN .PDF OR .PNG (add to files to assets folder and insert link to this file/**
 
 
 
@@ -79,6 +85,7 @@ Media
 The photos used in this site were obtained from ...
 Acknowledgements
 I received inspiration for this project from X
+-->
 
 
 
