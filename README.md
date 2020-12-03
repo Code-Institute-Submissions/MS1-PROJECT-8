@@ -27,6 +27,11 @@ For later versions I may consider adding the following content and features:
 
 Logo created using [FLD](https://www.freelogodesign.org/) 
 
+![Pawsology-Logo](https://github.com/cfbrown101/MS1-PROJECT/blob/master/assets/images/pawsology-logo.png?raw=true)
+
+
+
+
 
 <!-- ADD WIREFRAMES IN .PDF OR .PNG (add to files to assets folder and insert link to this file/**
 
