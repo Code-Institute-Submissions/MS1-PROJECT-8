@@ -48,7 +48,11 @@ Logo created using [FLD](https://www.freelogodesign.org/)
 ![Pawsology-Logo](https://github.com/cfbrown101/MS1-PROJECT/blob/master/assets/images/pawsology-logo.png?raw=true)
 
 
+## Visual Design
 
+* Typography
+* Colour Theme
+* Rule of thirds 
 
 
 <!-- ADD WIREFRAMES IN .PDF OR .PNG (add to files to assets folder and insert link to this file/** -->
@@ -67,39 +71,63 @@ Logo created using [FLD](https://www.freelogodesign.org/)
 <!--Description of issue and resolution. Add problem code and correct code to resolved -->
 
 
-### **Credits**
+## **Credits**
 
-Code:
+The basic structure of the website was required for my Milestone 1 project for Code Institutes Fullstack Web Developer Course
+
+### Code:
 
 <!--Also, add comments in the html file-->
 
-Content:
+### Content:
 
 <!--Any external information, statictics, quotes, translations etc, translations-->
 
-Media: 
+### Media: 
 
 * Animations
 * Images 
 * Video
 
 
-### **Deployment**
+## **Deployment**
 
 This project was developed using [Gitpod](https://www.freelogodesign.org/) and pushed to [Github](https://github.com/)  
 
-To add 
+[Documentation - Deploying to Github pages](https://pages.github.com/) 
 
-To deploy this project locally:
+
 
 <!--Add detailed step by step instructions-->
 
 <!--Refer back to saved video for deployment & Testing-->
 
 
-### **Testing**
+## **Testing**
 
 <!--Review deployment and testing section / add as you test-->
+
+<!--Automated testing file if applicable-->
+
+<!--Break out into another file there is too much information-->
+
+### [WC3 CSS Validatation](https://jigsaw.w3.org/css-validator/)
+
+### [WC3 HTML Validatation](https://validator.w3.org/)
+
+
+
+### **Testing of user stories in UX**
+
+<!--Expected>Tested>Result>Fix-->
+
+### **Responsiveness and browser compatibilty** 
+
+[Lighthouse Documentation](https://developers.google.com/web/tools/lighthouse)
+
+<!--Use Lighthouse in Chrome Dev toolsfor responsiveness, best practice and accessibility-->
+
+
 
 
 
