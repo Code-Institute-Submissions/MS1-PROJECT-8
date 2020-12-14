@@ -28,6 +28,17 @@ For later versions I may consider adding the following content and features:
 
 ## **User stories**
 
+Users should be able to perform the following actions:
+
+* Navigate easily through the site from any page 
+* Logo image should direct back to the home page
+* Access and view / read my profile picture and bio 
+* View dog profiles and descriptins easily 
+* Access social media links from each page
+* Access and submit e-mail via contact form
+
+Tested Yes/No?
+
 
 
 ## **Wireframes**
@@ -68,15 +79,27 @@ Content:
 
 Media: 
 
-
-
 * Animations
 * Images 
 * Video
 
 
+### **Deployment**
+
+This project was developed using [Gitpod](https://www.freelogodesign.org/) and pushed to [Github](https://github.com/)  
+
+To add 
+
+To deploy this project locally:
+
+<!--Add detailed step by step instructions-->
+
+<!--Refer back to saved video for deployment & Testing-->
 
 
+### **Testing**
+
+<!--Review deployment and testing section / add as you test-->
 
 
 
