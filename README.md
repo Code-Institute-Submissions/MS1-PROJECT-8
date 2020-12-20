@@ -13,7 +13,7 @@ For version 1 and the purpose of this project users will be able to access the f
 
 * My profile and a short description of fostering experience
 * My contact details
-* Profiles of all my foster dogs to date 
+* Profiles of all my foster dogs from past to present date
 * Contact me via an e-mail contact form 
 * Access links and information to the rescue organisations I work with 
 
@@ -23,6 +23,7 @@ For later versions I may consider adding the following content and features:
 * Blog
 * Forum
 * References / testimonials from the rescue organisations I have worked with 
+* Site language preferences (Dutch/English)
 
 
 
@@ -89,7 +90,7 @@ The basic structure of the website was required for my Milestone 1 project for C
 * Images 
 * Video
 
-### Technologies Used
+## Technologies Used
 
 Code:
 
