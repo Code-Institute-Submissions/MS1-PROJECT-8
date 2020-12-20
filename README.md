@@ -5,7 +5,7 @@
 ### **Strategy**
 
 The purpose / goal is to build a static website to primarily show case a portfolio of my foster dogs and a profile of myself. 
-Prospective rescue organisations will be able to use this information to validate my fostering experience
+Prospective rescue organisations will be able to use this information to validate my fostering experience.
 
 The target audience will primarily be for dog rescue organisations, dog foster carers and anyone interested in helping homeless dogs.
 
@@ -33,7 +33,7 @@ Users should be able to perform the following actions:
 * Navigate easily through the site from any page 
 * Logo image should direct back to the home page
 * Access and view / read my profile picture and bio 
-* View dog profiles and descriptins easily 
+* View dog profiles and descriptions easily 
 * Access social media links from each page
 * Access and submit e-mail via contact form
 
@@ -88,6 +88,16 @@ The basic structure of the website was required for my Milestone 1 project for C
 * Animations
 * Images 
 * Video
+
+### Technologies Used
+
+Code:
+
+Frameworks:
+
+Libraries:
+
+Tools: 
 
 
 ## **Deployment**
