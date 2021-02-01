@@ -28,20 +28,10 @@ h2{
 }
 
  
-  #videobg {
-  width: 100%;
-  height: 100vh;
-  top:7%;
-  left:0%;
-  right:0%;
-  bottom:7%;
-position: fixed;
-  object-fit: fill;
-  overflow: hidden;
-  z-index: -1;
+  
 
  
-}
+
 /*
 @media (min-aspect-ratio: 16/9) {
     #videoBG {
@@ -57,42 +47,32 @@ position: fixed;
     }
 }
 */ 
-@media (max-width:1080px) {
-    #videobg {
-        display:none;
-    }
-@media (min-width:767px) {
-    #videobg {
-        display:none;
-    }
-
-    body {
-        background: url('../images/homepage-video.mp4');
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position:center;
-        
-        
-        
-    }
-    
-}
 
 
+#videobg {
+        position: fixed;
+        right: 0;
+        bottom: 0;
+        min-width: 100vw;
+        min-height:100vh; 
+        
+      }
     
 
 
-    
+
+
 
     @media (max-width: 768px) {
     #bgimage {
         display:block;
+        width: 100%;
     }
     
     @media (max-width:1024px) {
     #bgimage {
         display:none;
-    }
+    } 
 
     }
     
@@ -100,13 +80,14 @@ position: fixed;
         background: url('../images/daisy-bg-mobile.jpg');
         background-size: cover;
         background-repeat: no-repeat;
+        
     }
     
 }
 
 
 
-}
+
 
     .footer{
         position: fixed;
