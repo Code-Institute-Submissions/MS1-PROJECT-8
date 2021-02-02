@@ -30,19 +30,37 @@ h2{
     background: #bdcebe;
 }
 
+ /* Website name and description */
+
+ .content {
+  position:relative;
+  Top: 100px;
+  Left: 80px;
+  width: 100%;
+  padding: 50px;
+
+ }
+
+ .btn-calltoaction {
+     position: absolute;
+     Top: 450px;
+     bottom:80px;
+     left: 600px;
+ }
+  
  
 
 /* Video and Image */
 
-#videobg {
-        position: fixed;
-        right: 0;
-        bottom: 0;
+    #videobg {
+        position:fixed;
+        right: 0%;
+        bottom: 0%;
         min-width: 100vw;
         min-height:100vh; 
         z-index:-1;
-        
-      }
+        display:none;
+        }
     
 
     
@@ -51,6 +69,8 @@ h2{
         right: 0;
         bottom: 0;
         z-index: -1;
+        display:none;
+
         
         
     }
@@ -58,9 +78,9 @@ h2{
 /* Media Queries */
 
     
-    @media only screen and (max-width: 768px) {
+    @media only screen and (min-width: 768px) {
         #videobg {
-        display: none;
+        display: block;
         }
 
     }
@@ -98,5 +118,6 @@ h2{
         background-color: #f5727b;
         color: white;
         text-align: center;
+        opacity:0.7;
 
     } 
